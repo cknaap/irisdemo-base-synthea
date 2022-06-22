@@ -2,7 +2,7 @@
 
 Container for running synthea.
 
-Repository: https://github.com/FirelyTeam/firely.synthea
+Repository: https://github.com/FirelyTeam/firely.synthea-docker
 
 This is based on https://github.com/intersystems-community/irisdemo-base-synthea.
 I (Christiaan) added powershell scripts `build_synthea.ps1` & `build.ps1` to run the whole thing on Windows.
