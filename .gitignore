@@ -1,6 +1,8 @@
 .gradle
-./synthea/synthea
+synthea/
+synthea_dist/
 *.tar
 output/*/*
 !output/patients_will_appear_here
 */.DS_Store
+*/.vscode
